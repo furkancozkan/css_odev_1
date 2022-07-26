@@ -1,0 +1,100 @@
+/* main page style */
+
+.container {
+    width: 1000px;
+    margin:0 auto;
+    border: 2px double;
+    line-height: 0.5;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+
+.h2-title {
+    line-height: 1.2;
+    background-color: #DA1212;
+}
+
+.header {
+    width: 990px;
+    height: 146px;
+    margin: 0 auto;
+    padding: 2px 2px 0 2px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.navbar-category:hover {
+    background-color: red;
+}
+
+.main {
+    width: 998px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.card-main {
+    font-size: 10px;
+    width: 345px;
+    height: 296px;
+    float: left;
+    margin: 10px 10px 0 10px;
+    padding: 15px;
+    text-align: center;
+    border: 2px double;
+}
+
+.footer {
+    width: 996px;
+    height: 150px;
+    margin:0 auto;
+}
+
+.card-footer {
+    font-size: 8px;
+    width: 994px;
+    height: 73px;
+    margin: 0 auto;
+    padding: 1px;
+    text-align: center;
+}
+
+.leftbar {
+    width: 186px;
+    height: 700px;
+    margin: 0;
+    float: left;
+    padding-left: 10px;
+    line-height: 1.2;
+    text-align: left;
+    font-size: 13px;
+    border-right: 2px double;      
+}
+
+.leftbar-li:hover {
+    background-color:yellow;
+}
+
+.leftbar-ul {
+    padding-left: 0;
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+.content {
+    width: 798px;
+    height: 700px;
+    float: left;
+    font-size: 12px;
+}
+
+/* product page style */
+
+.product-main {
+    text-align: center;
+    
+}
+
+
+
+
